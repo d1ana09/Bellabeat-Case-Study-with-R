@@ -1,9 +1,6 @@
 # Bellabeat-Case-Study-with-R
 This is the capstone project for Google Data Analytics Certificate
 
-
-
-
 ## Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
