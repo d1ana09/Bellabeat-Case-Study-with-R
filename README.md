@@ -14,13 +14,13 @@ Their contributions to the field have provided valuable perspectives and guidanc
 
 ### Now, let's proceed to delve into the project! 🚀
 
-### This case study follows the six-step data analysis process, which ensures a thorough and systematic examination of the data. The steps are: 
-### ❓ [Ask](#step-1-ask), defining the questions and objectives;
-### 💻 [Prepare](#step-2-prepare), where we collect and organize the data;
-### 🛠️ [Process](#step-3-process), focusing on data cleaning and verification;
-### 📊 [Analyze](#step-4-analyze), where we deeply explore the data and draw insights;
-### 📋 [Share](#step-5-share), which involves presenting our findings;
-### 🧗🏻‍♀️ [Act](#step-6-share), where we make recommendations based on our analysis.
+#### This case study follows the six-step data analysis process, which ensures a thorough and systematic examination of the data. The steps are: 
+#### ❓ [Ask](#step-1-ask), defining the questions and objectives;
+#### 💻 [Prepare](#step-2-prepare), where we collect and organize the data;
+#### 🛠️ [Process](#step-3-process), focusing on data cleaning and verification;
+#### 📊 [Analyze](#step-4-analyze), where we deeply explore the data and draw insights;
+#### 📋 [Share](#step-5-share), which involves presenting our findings;
+#### 🧗🏻‍♀️ [Act](#step-6-share), where we make recommendations based on our analysis.
 
 # Introduction
 ![Bellabeat Logo](figures/bellabeat-logo.png)
@@ -174,7 +174,7 @@ str(weight)
 
 ```
 activity_new <- activity %>%
-  rename_with(tolower) %>% #Convert column names to lowercase
+  rename_with(tolower) %>% #convert column names to lowercase
   mutate(activitydate = as.Date(activitydate, format="%m/%d/%Y")) #fixing date formats
 str(activity_new) #preview the result
 ```
