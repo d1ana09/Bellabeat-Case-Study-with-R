@@ -23,7 +23,7 @@ Their contributions to the field have provided valuable perspectives and guidanc
 #### 🧗🏻‍♀️ [Act](#step-6-share), where we make recommendations based on our analysis.
 
 # Introduction
-![Bellabeat Logo](figures/bellabeat-logo.png)
+![Bellabeat Logo](Figures/bellabeat-logo.png)
 
 Founded in 2013 by Urška Sršen and Sandro Mur, [Bellabeat]( https://bellabeat.com/) is a high-tech company that focuses on creating beautiful, innovative products designed specifically for women. With a strong emphasis on empowering women to take control of their health and wellness, [Bellabeat]( https://bellabeat.com/) integrates smart technology into everyday items that support overall wellbeing.
 
