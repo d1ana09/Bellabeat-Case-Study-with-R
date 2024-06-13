@@ -20,7 +20,7 @@ Their contributions to the field have provided valuable perspectives and guidanc
 #### 🛠️ [Process](#step-3-process), focusing on data cleaning and verification;
 #### 📊 [Analyze](#step-4-analyze), where we deeply explore the data and draw insights;
 #### 📋 [Share](#step-5-share), which involves presenting our findings;
-#### 🧗🏻‍♀️ [Act](#step-6-share), where we make recommendations based on our analysis.
+#### 🧗🏻‍♀️ [Act](#step-6-act), where we make recommendations based on our analysis.
 
 # Introduction
 ![Bellabeat Logo](Figures/bellabeat-logo.png)
